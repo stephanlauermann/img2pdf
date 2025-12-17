@@ -148,7 +148,7 @@ ModuleNotFoundError
 
 ## Autor
 
-**Stephan Lauermann**  , AI assisted by ChatCPT
+**Stephan Lauermann**  , AI assisted by ChatGPT
 Lauermann IT
 
 ---
